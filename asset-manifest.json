@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hemanth-0-1/ReactWorks/static/css/main.4b8f994d.css",
+    "main.css": "/Hemanth-0-1/ReactWorks/static/css/main.05afe94e.css",
     "main.js": "/Hemanth-0-1/ReactWorks/static/js/main.6db16fb5.js",
     "static/js/453.fc89fcfa.chunk.js": "/Hemanth-0-1/ReactWorks/static/js/453.fc89fcfa.chunk.js",
     "index.html": "/Hemanth-0-1/ReactWorks/index.html",
-    "main.4b8f994d.css.map": "/Hemanth-0-1/ReactWorks/static/css/main.4b8f994d.css.map",
+    "main.05afe94e.css.map": "/Hemanth-0-1/ReactWorks/static/css/main.05afe94e.css.map",
     "main.6db16fb5.js.map": "/Hemanth-0-1/ReactWorks/static/js/main.6db16fb5.js.map",
     "453.fc89fcfa.chunk.js.map": "/Hemanth-0-1/ReactWorks/static/js/453.fc89fcfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b8f994d.css",
+    "static/css/main.05afe94e.css",
     "static/js/main.6db16fb5.js"
   ]
 }
